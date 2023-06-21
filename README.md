@@ -1,6 +1,6 @@
 # ds002076 - MRIQC derivatives
 
-This dataset is a BIDS Derivatives dataset resulting from running MRIQC vVERSION on [ds002076](https://openneuro.org/datasets/ds002076).
+This dataset is a BIDS Derivatives dataset resulting from running MRIQC v23.1.0 on [ds002076](https://openneuro.org/datasets/ds002076).
 
 ## Methods
 
